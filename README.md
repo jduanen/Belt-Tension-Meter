@@ -10,11 +10,17 @@ By varying the length of the pan-head M4 bolt attached to the load cell, it is p
 
 ## Digital Scale
 ![Digital Scale](https://github.com/jduanen/Belt-Tension-Meter/blob/master/images/scale.jpg)
-![Digital Scale Insides](https://github.com/jduanen/Belt-Tension-Meter/blob/master/images/scaleInsides.jpg)
+
+![Digital Scale Insides](https://github.com/jduanen/Belt-Tension-Meter/blob/master/images/scaleInsides1.jpg)
+
+![Digital Scale Insides](https://github.com/jduanen/Belt-Tension-Meter/blob/master/images/scaleInsides2.jpg)
+
 ![Digital Scale Load Cell](https://github.com/jduanen/Belt-Tension-Meter/blob/master/images/loadCell.jpg)
 
 ## Mounting Block
 ![Mounting Block](https://github.com/jduanen/Belt-Tension-Meter/blob/master/images/mount.jpg)
+
+![Load Cell and Mounting Block](https://github.com/jduanen/Belt-Tension-Meter/blob/master/images/loadCellMount.jpg)
 
 ## Example Use
 ![Example Use](https://github.com/jduanen/Belt-Tension-Meter/blob/master/images/use.jpg)
