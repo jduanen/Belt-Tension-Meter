@@ -28,7 +28,9 @@ By varying the length of the pan-head M4 bolt attached to the load cell, it is p
 ![Finished Tool](https://github.com/jduanen/Belt-Tension-Meter/blob/master/images/finished2.jpg)
 
 ## Example Use
-![Example Use](https://github.com/jduanen/Belt-Tension-Meter/blob/master/images/use.jpg)
+![Example Use](https://github.com/jduanen/Belt-Tension-Meter/blob/master/images/use1.jpg)
+
+![Example Use](https://github.com/jduanen/Belt-Tension-Meter/blob/master/images/use2.jpg)
 
 # 3D CAD Files
 **write this section and put the files in the 'cad' directory**
