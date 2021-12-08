@@ -1,4 +1,4 @@
-# Belt-Tension-Meter
+# Belt Tension Meter
 Belt Tension Meter
 
 A tool for measuring G2 belt tension for Shapoko-/X-Carve-like CNC machines.
