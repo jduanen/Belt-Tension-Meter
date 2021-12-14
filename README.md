@@ -1,7 +1,6 @@
 # Belt Tension Meter
-Belt Tension Meter
+Tool for measuring G2 belt tension for Shapoko-/X-Carve-like CNC machines.
 
-A tool for measuring G2 belt tension for Shapoko-/X-Carve-like CNC machines.
 Uses the load cell from a luggage hand scale \[1\] and a 3D-printed part \[2\] to create a small device that is placed under a belt, at its mid-point and displays the amount of tension on the belt in pounds or grams.
 
 The Inventables Forum ![Inventables Forum](https://discuss.inventables.com/) has advice for how to measure and set the tension on drive belts for the X-Carve.  A common suggestion involves pulling a belt up to one inch hieght at its mid-point with a hand-held scale and tensioning the belt to between three and six pounds.
